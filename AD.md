@@ -1,10 +1,12 @@
 # What Active Directory
 
 Active Directory is a centralized Windows OS directory service that connects users with the network resources they need. It helps the system administrators to organize resources belonging to which network, from access to the hosts to implementing policies. Additionally, it helps to monitor various network objects for smooth and easier operations within a network.
+
 Active Directory Structure provides a clear picture of the network, allows the admins to centrally manage users and policies regardless of the size of the network. The Active Directory structure consists of three main components:
-A Domain is a collection of objects (e.g. users, hosts) that share the same Active Directory database.
-A Tree is a collection of one or more domains with a contiguous namespace.
-A Forest is a collection of one or more trees that share a common schema
+- A Domain is a collection of objects (e.g. users, hosts) that share the same Active Directory database.
+- A Tree is a collection of one or more domains with a contiguous namespace.
+- A Forest is a collection of one or more trees that share a common schema.
+
 As a Network grows it will be so difficult for system administrators to track every object and resource of the company! which may lead to Security Issues.
 
 # Why It Is Crucial to Secure the Active Directory
