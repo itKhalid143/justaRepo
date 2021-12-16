@@ -35,5 +35,6 @@ System Administrators must Identify and patch the vulnerabilities found on Activ
 ## Use Real-Time Windows Auditing and Alerting
 Administrators should know what is connected to the network, should always provide auditing and alerting of any access from inside or outside the organization, with lots of users and computers this can be challenging, that is where we get the need for automated tools.
 
-#Wrapping up
+# Wrapping up
+
 The Active Directory is central to the success of any modern business, Understanding its vulnerabilities and applying best practices is so important to keep the business and prevent any potential attack vectors.
